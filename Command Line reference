@@ -12,6 +12,7 @@ cp -- copy a file
 ls -- list current dir
 rm -- remove the dir 
 rmdir -- remove the dir
+pwd -- prints the working dir
 
 
 vim -- text editor (optional)
