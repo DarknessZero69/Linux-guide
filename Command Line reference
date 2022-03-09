@@ -1,0 +1,22 @@
+clear -- clear the screen
+man  -- manual pages for commands
+less -- long text becomes readable
+whatis -- a simple defintion about what program do
+
+
+touch -- creates new file 
+mkdir -- creates new dir(folder)
+cd -- change dir
+mv -- cut a file
+cp -- copy a file
+ls -- list current dir
+rm -- remove the dir 
+rmdir -- remove the dir
+
+
+vim -- text editor (optional)
+
+
+cal -- calender
+date -- well date 
+
